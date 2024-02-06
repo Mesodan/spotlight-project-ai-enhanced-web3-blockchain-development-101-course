@@ -60,7 +60,7 @@ I learnt about smart contract as a computer code that automatically executes whe
 
 ### SECTION 8: AI TOOLS FOR WEB3 DEVELOPMENT
 **Introduction To AI Tools For Web3 Development**
-- Response: AI tools for web3 development include Chatgpt, google bard.  
+- Response: AI tools for web3 development include Chatgpt, Google bard.  
 
 ### SECTION 9: COURSE PROJECT
 **Spotlight Project For AI-Enhanced Web3/Blockchain Development 101 Course**
@@ -70,7 +70,7 @@ I learnt about smart contract as a computer code that automatically executes whe
 
 Upload your terminal screenshots here to show that you have followed the GitHub steps correctly.
 
-- ![GitHub Remote URL](images/project-screeshot.png)
+- ![GitHub Remote URL](images/Akinola-project-screenshot.png)
 
 Make sure the URL of the remote in your screenshot matches the URL of your GitHub repo for this project.
 
